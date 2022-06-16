@@ -19,8 +19,8 @@ The course isn't over yet, so far I only learned:
   - Flex Layout
   - Grid Layout
 
-- How to use Chrome Dev Tools
-- And there was a challenge along the way that I had to do myself from scratch, I'll attatch a screenshot to it at the end of this file.
+- ### How to use Chrome Dev Tools
+- ### And there was a challenge along the way that I had to do myself from scratch, I'll attatch a screenshot to it at the end of this file.
 
 > The course is pretty fun so far, and what's coming is even more fun, we're gonna learna bout Web Design Rules and Framework, Components and Laout Patterns, then we'll build a pretty big project on the entire concepts that we learned in the course, pretty excited!
 
